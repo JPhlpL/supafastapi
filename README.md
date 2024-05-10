@@ -1,8 +1,8 @@
 FastAPI with Supabase Management
 
-------App
-      -- (This were your file is located)
-------Venv
+1. ------App
+      1.1 -- (This were your file is located)
+2. ------Venv
 
 1. Put this into app folder
 2. Separate it from venv file
